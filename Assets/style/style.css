@@ -1,0 +1,42 @@
+body {
+    background: grey;
+}
+
+
+
+
+img {
+    width: 150px;
+    height: 150px;
+    border: solid lightcoral;
+    border-radius: 50%;
+    text-align: center;
+    margin: 20px;
+}
+
+.textbox {
+    text-align: center;
+    font-family: Helvetica, sans-serif; 
+}
+
+.container{
+    margin-top: 69px;
+    margin-bottom: 88px;
+}
+#images {
+    text-align: center;
+}
+
+#chat-icon {
+    height: 50px;
+    width: 45px;
+}
+#result {
+    display: -webkit-box;
+}
+#score-body {
+    width: 325px;
+    background: #9e9e9d;
+    height: 130px;
+    text-align: center;
+    margin-left: 397px;}
