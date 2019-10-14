@@ -1,5 +1,6 @@
 body {
     background: grey;
+    
 }
 
 
@@ -21,22 +22,28 @@ img {
 
 .container{
     margin-top: 69px;
-    margin-bottom: 88px;
+    /* margin-bottom: 88px; */
 }
 #images {
     text-align: center;
 }
 
-#chat-icon {
-    height: 50px;
-    width: 45px;
-}
-#result {
-    display: -webkit-box;
+#choices {
+    display: flex;
+    margin-left: 150px;
 }
 #score-body {
     width: 325px;
     background: #9e9e9d;
     height: 130px;
     text-align: center;
-    margin-left: 397px;}
+    margin-left: 397px;
+}
+ .col-md{
+    height: 400px;
+    text-align: center;   
+ }
+
+ #action-moves{
+    text-align: center;
+ }
